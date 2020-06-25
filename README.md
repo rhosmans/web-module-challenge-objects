@@ -9,16 +9,16 @@
 
 ## Introduction
 
-You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data. 
+You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data.
 
 ## Instructions
 
 ### Task 1: Set up Project
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Create a forked copy of this project
+- [X] Add your team lead as collaborator on Github
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
 - [ ] Push commits: git push origin `<firstName-lastName>`
 
